@@ -97,7 +97,10 @@ export default {
     width: 100vw;
 
     .nav-list {
-      padding: 0 10%;
+      padding: 0 10% ;
+      height: calc(100% - 120px);
+      overflow: scroll;
+
       display: flex;
       flex-direction: column;
 
@@ -118,6 +121,7 @@ export default {
     .select-lng {
       position: fixed;
       bottom: 1em;
+      height: 100px;
       padding-left: 6%;
       width: 100%;
       .title{

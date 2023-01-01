@@ -1060,6 +1060,7 @@ export default {
 <style lang="scss" scoped>
 .home {
   footer {
+    margin-top: 2em;
     background: #242526;
     padding: 3em 6%;
 
@@ -1432,15 +1433,12 @@ export default {
       align-items: center;
 
       .max-btn {
-        width: 68px;
-        height: 34px;
+        padding: 8px 1em;
         background: #FFC000;
         border-radius: 24px;
         font-size: 16px;
-        font-family: PingFangSC-Medium, PingFang SC;
         font-weight: 500;
         color: #18191A;
-        line-height: 22px;
       }
 
       input {

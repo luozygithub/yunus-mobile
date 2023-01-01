@@ -109,6 +109,7 @@ export default {
   .nav-list{
     display: flex;
     justify-content: space-between;
+    margin-top: 2em;
     .nav{
       width: 31%;
       border-radius: 10px;

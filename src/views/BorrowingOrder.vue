@@ -4,6 +4,12 @@
       <div class="bg3">
 
       </div>
+      <div class="content">
+        Borrowing Amount
+      </div>
+      <div class="title1">
+        250,566 USDT
+      </div>
     </div>
     <div class="part2">
       <div class="nav-list">
@@ -247,18 +253,38 @@ export default {
 <style lang="scss" scoped>
 .BorrowingOrder{
   position: relative;
+  width: 100%;
+  overflow: hidden;
   .bg3{
-    background: url("../assets/borrow_bg3.png") no-repeat;
+    background: url("../assets/borrow_bg3.png") 100% -100px no-repeat;
     position: absolute;
+    width: 100%;
+    height: 150px;
   }
   .part1{
     padding: 2em 6%;
+    .title1 {
+      font-size: 32px;
+      font-family: BigJohn, sans-serif;
+      color: #FFC000;
+      line-height: 40px;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    .content{
+      color: #999;
+      margin: 0.5em;
+    }
   }
   .part2 {
     background: #18191A;
     box-shadow: 0px -10px 20px 0px rgba(255,192,0,0.05);
     border-radius: 30px 30px 0px 0px;
+    position: relative;
+    z-index: 10;
+    overflow: hidden;
     .nav-list{
+
       display: flex;
       border-bottom: 1px solid #999;
       .nav-item{

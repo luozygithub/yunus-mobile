@@ -40,6 +40,8 @@ export default {
 <style lang="scss" scoped>
 .part1 {
   padding: 2em 6%;
+  overflow: hidden;
+  width: 100%;
   position: relative;
   background: linear-gradient(110deg, rgba(255,192,0,0.2) 0%, rgba(255,192,0,0) 50%);
   .bg2{
