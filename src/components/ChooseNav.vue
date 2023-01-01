@@ -98,7 +98,7 @@ export default {
     width: 100vw;
 
     .nav-list {
-      padding: 0 10% ;
+      padding: 0 8% ;
       height: calc(100% - 120px);
       overflow: scroll;
 

@@ -1295,7 +1295,7 @@ export default {
       margin-bottom: 30px;
 
       .nav-item {
-        width: 170px;
+        width: 48%;
         height: 48px;
         border-radius: 24px;
         border: 1px solid #999;
@@ -1431,7 +1431,8 @@ export default {
       border-radius: 24px;
       padding: 0 15px;
       align-items: center;
-    justify-content: space-between;
+      justify-content: space-between;
+
       .max-btn {
         padding: 8px 1em;
         background: #FFC000;
@@ -1446,6 +1447,7 @@ export default {
         padding: 0 5px;
         flex: 1;
         width: 80%;
+
         &:focus-visible {
           outline: none;
         }
