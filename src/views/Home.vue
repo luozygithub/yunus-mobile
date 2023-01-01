@@ -1431,7 +1431,7 @@ export default {
       border-radius: 24px;
       padding: 0 15px;
       align-items: center;
-
+    justify-content: space-between;
       .max-btn {
         padding: 8px 1em;
         background: #FFC000;
@@ -1445,7 +1445,7 @@ export default {
         background: none;
         padding: 0 5px;
         flex: 1;
-
+        width: 80%;
         &:focus-visible {
           outline: none;
         }

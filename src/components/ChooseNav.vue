@@ -88,6 +88,7 @@ export default {
   top: 0;
   left: 0;
   z-index: 100;
+  height: 100%;
   .choose-nav {
     position: fixed;
     top: 100px;
