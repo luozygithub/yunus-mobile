@@ -67,6 +67,7 @@
 <script>
 export default {
   name: "ChooseNav",
+  components: {},
   data() {
     return {
       activeIndex: 0,
@@ -83,28 +84,24 @@ export default {
 
 <style lang="scss" scoped>
 .choose-nav-box{
-  height: 100vh;
   position: fixed;
-  top: 0;
+  height: calc(100vh - 100px);
+  width: 100%;
+  top: 100px;
   left: 0;
   z-index: 100;
-  height: 100%;
+  background: #18191A;
   .choose-nav {
-    position: fixed;
-    top: 100px;
     background: #18191A;
-    height: calc(100vh - 100px);
-    z-index: 100;
-    width: 100vw;
-
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     .nav-list {
-      padding: 0 8% ;
-      height: calc(100% - 120px);
+      padding: 1em 8% 2em;
       overflow: scroll;
-
       display: flex;
       flex-direction: column;
-
+      flex-grow: 1;
       .choose-item {
         font-size: 18px;
         font-family: PingFangSC-Semibold, PingFang SC, sans-serif;
@@ -120,10 +117,9 @@ export default {
     }
 
     .select-lng {
-      position: fixed;
-      bottom: 1em;
-      height: 100px;
+      background: #18191A;
       padding-left: 6%;
+      padding-top: 2em;
       width: 100%;
       .title{
         font-size: 18px;

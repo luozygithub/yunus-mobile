@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <ChooseNav v-show="isShowNav" @handleClick="hideChoose"/>
+    <ChooseNav v-show="isShowNav" class="choose-nav" @handleClick="hideChoose"/>
     <div class="top-box sticky bg-darkGray">
       <div class="flex-1 flex justify-center items-center space-x-5 flex-shrink-0 sm:flex-none">
         <div class="flex items-center space-x-1.5 flex-shrink-0">
@@ -99,6 +99,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
 .header-box {
   width: 100%;
   height: 69px;
