@@ -4,55 +4,55 @@
       <div class="swiper-wrapper"
            style="transition-duration: 0ms; transform: translate3d(-2880px, 0px, 0px);">
         <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="10"
-             style="width: 160px;"><img src="../assets/nft11.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft11.webp" alt="NFTcard"></div>
         <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="11"
-             style="width: 160px;"><img src="../assets/nft12.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft12.webp" alt="NFTcard"></div>
         <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="12"
-             style="width: 160px;"><img src="../assets/nft13.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft13.webp" alt="NFTcard"></div>
         <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="13"
-             style="width: 160px;"><img src="../assets/nft14.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft14.webp" alt="NFTcard"></div>
 
         <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0"
-             style="width: 160px;"><img src="../assets/nft1.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft1.webp" alt="NFTcard"></div>
         <div class="swiper-slide swiper-slide-duplicate-next" data-swiper-slide-index="1"
-             style="width: 160px;"><img src="../assets/nft2.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft2.webp" alt="NFTcard"></div>
 
         <div class="swiper-slide" data-swiper-slide-index="3" style="width: 160px;"><img
-            src="../assets/nft4.png" alt="NFTcard"></div>
+            src="../assets/nft4.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="4" style="width: 160px;"><img
-            src="../assets/nft5.png" alt="NFTcard"></div>
+            src="../assets/nft5.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="5" style="width: 160px;"><img
-            src="../assets/nft6.png" alt="NFTcard"></div>
+            src="../assets/nft6.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="6" style="width: 160px;"><img
-            src="../assets/nft7.png" alt="NFTcard"></div>
+            src="../assets/nft7.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="7" style="width: 160px;"><img
-            src="../assets/nft8.png" alt="NFTcard"></div>
+            src="../assets/nft8.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="8" style="width: 160px;"><img
-            src="../assets/nft9.png" alt="NFTcard"></div>
+            src="../assets/nft9.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="9" style="width: 160px;"><img
-            src="../assets/nft10.png" alt="NFTcard"></div>
+            src="../assets/nft10.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="10" style="width: 160px;"><img
-            src="../assets/nft11.png" alt="NFTcard"></div>
+            src="../assets/nft11.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="11" style="width: 160px;"><img
-            src="../assets/nft12.png" alt="NFTcard"></div>
+            src="../assets/nft12.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="12" style="width: 160px;"><img
-            src="../assets/nft13.png" alt="NFTcard"></div>
+            src="../assets/nft13.webp" alt="NFTcard"></div>
         <div class="swiper-slide" data-swiper-slide-index="13" style="width: 160px;"><img
-            src="../assets/nft14.png" alt="NFTcard"></div>
+            src="../assets/nft14.webp" alt="NFTcard"></div>
 
         <div class="swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0"
-             style="width: 160px;"><img src="../assets/nft1.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft1.webp" alt="NFTcard"></div>
         <div class="swiper-slide swiper-slide-duplicate swiper-slide-next" data-swiper-slide-index="1"
-             style="width: 160px;"><img src="../assets/nft2.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft2.webp" alt="NFTcard"></div>
 
         <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3"
-             style="width: 160px;"><img src="../assets/nft4.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft4.webp" alt="NFTcard"></div>
         <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="4"
-             style="width: 160px;"><img src="../assets/nft5.png" alt="NFTcard"></div>
+             style="width: 160px;"><img src="../assets/nft5.webp" alt="NFTcard"></div>
       </div>
     </div>
     <div class="yunus-defi">
-      <img src="../assets/YUNUSLOOPDEFI@2x.png" alt="">
+      <img src="../assets/YUNUSLOOPDEFI@2x.webp" alt="">
     </div>
     <div class="yunus-info">
       Join Yunus Loop DeFi and make money by helping people in developing countries.
@@ -192,7 +192,7 @@
       <div class="statistic-content">
         <div class="statistic-content1" :style="'left:'+(statisticsNavIdx==0? '0':'-103%')">
           <div class="part-box">
-            <img src="../assets/icon-PPAd.png" alt="">
+            <img src="../assets/icon-PPAd.webp" alt="">
             <div class="part-content">
               <div class="part-title">
                 1 344 666
@@ -203,7 +203,7 @@
             </div>
           </div>
           <div class="part-box">
-            <img src="../assets/icon-PPAm.png" alt="">
+            <img src="../assets/icon-PPAm.webp" alt="">
             <div class="part-content">
               <div class="part-title">
                 18 277 108
@@ -214,7 +214,7 @@
             </div>
           </div>
           <div class="part-box">
-            <img src="../assets/icon-PPAd.png" alt="">
+            <img src="../assets/icon-PPAd.webp" alt="">
             <div class="part-content">
               <div class="part-title">
                 5 972 189
@@ -229,7 +229,7 @@
           <div class="statistic-content2-list">
             <div class="list-item">
               <div class="left">
-                <img src="../assets/icon-Personalcirculation.png" alt="">
+                <img src="../assets/icon-Personalcirculation.webp" alt="">
                 <div class="name">
                   Personal circulation
                 </div>
@@ -240,7 +240,7 @@
             </div>
             <div class="list-item">
               <div class="left">
-                <img src="../assets/icon-PersonalReceive.png" alt="">
+                <img src="../assets/icon-PersonalReceive.webp" alt="">
                 <div class="name">
                   Personal Receive
                 </div>
@@ -251,7 +251,7 @@
             </div>
             <div class="list-item">
               <div class="left">
-                <img src="../assets/icon-share.png" alt="">
+                <img src="../assets/icon-share.webp" alt="">
                 <div class="name">
                   Share Profit
                 </div>
@@ -268,7 +268,7 @@
       <div class="title">
         Share Link
         <div class="copy-box">
-          <img src="../assets/icon-copy.png" alt="">
+          <img src="../assets/icon-copy.webp" alt="">
           Copy
         </div>
 
@@ -351,7 +351,7 @@
         <div class="swiper-container2 swiper ">
           <div class="swiper-wrapper">
             <div class="swiper-slide ">
-              <img src="../assets/icon-autonomy@2x.png" alt="">
+              <img src="../assets/icon-autonomy@2x.webp" alt="">
               <div class="slide-title">
                 {{ $t('Autonomy') }}
               </div>
@@ -361,7 +361,7 @@
               </div>
             </div>
             <div class=" swiper-slide">
-              <img src="../assets/icon-Unchangingconditions@2x.png" alt="">
+              <img src="../assets/icon-Unchangingconditions@2x.webp" alt="">
               <div class="slide-title">
                 {{ $t("Unchangingconditions") }}
               </div>
@@ -370,7 +370,7 @@
               </div>
             </div>
             <div class=" swiper-slide">
-              <img src="../assets/icon-Transparency.png" alt="">
+              <img src="../assets/icon-Transparency.webp" alt="">
               <div class="slide-title">
                 {{ $t('Transparency') }}
               </div>
@@ -379,7 +379,7 @@
               </div>
             </div>
             <div class=" swiper-slide">
-              <img src="../assets/icon-Fullautomation@2x.png" alt="">
+              <img src="../assets/icon-Fullautomation@2x.webp" alt="">
               <div class="slide-title">
                 {{ $t('Full automation') }}
               </div>
@@ -388,7 +388,7 @@
               </div>
             </div>
             <div class=" swiper-slide">
-              <img src="../assets/icon-Decentralization@2x.png" alt="">
+              <img src="../assets/icon-Decentralization@2x.webp" alt="">
 
               <div class="slide-title">
                 {{ $t('Decentralization') }}
@@ -399,7 +399,7 @@
               </div>
             </div>
             <div class="swiper-slide">
-              <img src="../assets/icon-100%online@2x.png" alt="">
+              <img src="../assets/icon-100%online@2x.webp" alt="">
               <div class="slide-title">
                 {{ $t('100% online') }}
               </div>
@@ -763,36 +763,36 @@
       </div>
       <div class="link-list">
         <div class="link-item">
-          <img src="../assets/logo-coinbase@2x.png" alt="">
+          <img src="../assets/logo-coinbase@2x.webp" alt="">
         </div>
         <div class="link-item">
-          <img src="../assets/logo-matamask@2x.png" alt="">
+          <img src="../assets/logo-matamask@2x.webp" alt="">
         </div>
         <div class="link-item">
-          <img src="../assets/logo-token@2x.png" alt="">
+          <img src="../assets/logo-token@2x.webp" alt="">
         </div>
         <div class="link-item">
-          <img src="../assets/logo-tronlink@2x.png" alt="">
+          <img src="../assets/logo-tronlink@2x.webp" alt="">
         </div>
         <div class="link-item">
-          <img src="../assets/logo-huobi@2x.png" alt="">
+          <img src="../assets/logo-huobi@2x.webp" alt="">
         </div>
         <div class="link-item">
-          <img src="../assets/logo-crypto@2x.png" alt="">
+          <img src="../assets/logo-crypto@2x.webp" alt="">
         </div>
       </div>
     </div>
     <footer>
-      <img src="../assets/logo-touming.png" alt="">
+      <img src="../assets/logo-touming.webp" alt="">
       <div class="link-list">
         <div class="link-item">
           <a :href="telegramChannel" target="_blank">
-            <img src="../assets/icon-link.png" alt="">
+            <img src="../assets/icon-link.webp" alt="">
           </a>
         </div>
         <div class="link-item">
           <a :href="telegramChat" target="_blank">
-            <img src="../assets/icon-link.png" alt="">
+            <img src="../assets/icon-link.webp" alt="">
           </a>
         </div>
       </div>
@@ -1144,7 +1144,7 @@ export default {
   }
 
   .share-page-box {
-    background: url("../assets/share_bg.png");
+    background: url("../assets/share_bg.webp");
     background-size: 100% 100%;
     padding: 50px 6%;
 
@@ -1212,7 +1212,7 @@ export default {
     padding: 0 6%;
     margin: 50px 0;
     width: 100%;
-    background: url("../assets/image-map.png") no-repeat;
+    background: url("../assets/image-map.webp") no-repeat;
     background-size: contain;
     background-position: bottom;
 
@@ -1290,7 +1290,7 @@ export default {
 
         .statistic-content2-list {
           .list-item {
-            background: url("../assets/bg-list.png");
+            background: url("../assets/bg-list.webp");
             background-size: 100% 100%;
             padding: 30px 20px;
             margin-top: 10px;

@@ -7,7 +7,7 @@
       <div class="swiper-container2 swiper ">
         <div class="swiper-wrapper">
           <div class="swiper-slide ">
-            <img src="../assets/icon-autonomy@2x.png" alt="">
+            <img src="../assets/icon-autonomy@2x.webp" alt="">
             <div class="slide-title">
               {{ $t('Autonomy') }}
             </div>
@@ -17,7 +17,7 @@
             </div>
           </div>
           <div class=" swiper-slide">
-            <img src="../assets/icon-Unchangingconditions@2x.png" alt="">
+            <img src="../assets/icon-Unchangingconditions@2x.webp" alt="">
             <div class="slide-title">
               {{ $t("Unchangingconditions") }}
             </div>
@@ -26,7 +26,7 @@
             </div>
           </div>
           <div class=" swiper-slide">
-            <img src="../assets/icon-Transparency.png" alt="">
+            <img src="../assets/icon-Transparency.webp" alt="">
             <div class="slide-title">
               {{ $t('Transparency') }}
             </div>
@@ -35,7 +35,7 @@
             </div>
           </div>
           <div class=" swiper-slide">
-            <img src="../assets/icon-Fullautomation@2x.png" alt="">
+            <img src="../assets/icon-Fullautomation@2x.webp" alt="">
             <div class="slide-title">
               {{ $t('Full automation') }}
             </div>
@@ -44,7 +44,7 @@
             </div>
           </div>
           <div class=" swiper-slide">
-            <img src="../assets/icon-Decentralization@2x.png" alt="">
+            <img src="../assets/icon-Decentralization@2x.webp" alt="">
 
             <div class="slide-title">
               {{ $t('Decentralization') }}
@@ -55,7 +55,7 @@
             </div>
           </div>
           <div class="swiper-slide">
-            <img src="../assets/icon-100%online@2x.png" alt="">
+            <img src="../assets/icon-100%online@2x.webp" alt="">
             <div class="slide-title">
               {{ $t('100% online') }}
             </div>
@@ -251,32 +251,32 @@ export default {
     }
     &:nth-child(1){
       .content-value{
-        background: url("../assets/1.png") 95% 20% no-repeat;
+        background: url("../assets/1.webp") 95% 20% no-repeat;
       }
     }
     &:nth-child(2){
       .content-value{
-        background: url("../assets/2.png") 95% 20% no-repeat;
+        background: url("../assets/2.webp") 95% 20% no-repeat;
       }
     }
     &:nth-child(3){
       .content-value{
-        background: url("../assets/3.png") 95% 20% no-repeat;
+        background: url("../assets/3.webp") 95% 20% no-repeat;
       }
     }
     &:nth-child(4){
       .content-value{
-        background: url("../assets/4.png") 95% 20% no-repeat;
+        background: url("../assets/4.webp") 95% 20% no-repeat;
       }
     }
     &:nth-child(5){
       .content-value{
-        background: url("../assets/5.png") 95% 20% no-repeat;
+        background: url("../assets/5.webp") 95% 20% no-repeat;
       }
     }
     &:nth-child(6){
       .content-value{
-        background: url("../assets/6.png") 95% 20% no-repeat;
+        background: url("../assets/6.webp") 95% 20% no-repeat;
       }
     }
   }

@@ -38,7 +38,7 @@
       </div>
       <div class="info-list">
         <div class="info-item">
-          <img src="../assets/icon-fs.png" alt="">
+          <img src="../assets/icon-fs.webp" alt="">
           <div class="right">
             <div class="name">
               Fund supply
@@ -50,7 +50,7 @@
           </div>
         </div>
         <div class="info-item">
-          <img src="../assets/icon-mm.png" alt="">
+          <img src="../assets/icon-mm.webp" alt="">
           <div class="right">
             <div class="name">
               Matching model
@@ -61,7 +61,7 @@
           </div>
         </div>
         <div class="info-item">
-          <img src="../assets/icon-uoit.png" alt="">
+          <img src="../assets/icon-uoit.webp" alt="">
           <div class="right">
             <div class="name">
               Unit of interest time
@@ -72,7 +72,7 @@
           </div>
         </div>
         <div class="info-item">
-          <img src="../assets/icon-moi.png" alt="">
+          <img src="../assets/icon-moi.webp" alt="">
           <div class="right">
             <div class="name">
               Mode of loan
@@ -83,7 +83,7 @@
           </div>
         </div>
         <div class="info-item">
-          <img src="../assets/icon-bm.png" alt="">
+          <img src="../assets/icon-bm.webp" alt="">
           <div class="right">
             <div class="name">
               Borrowing method
@@ -95,7 +95,7 @@
           </div>
         </div>
         <div class="info-item">
-          <img src="../assets/icon-irod.png" alt="">
+          <img src="../assets/icon-irod.webp" alt="">
           <div class="right">
             <div class="name">
               Interest rate on delivery/loan
@@ -112,7 +112,7 @@
       <div class="title2">
         Core Architecture
       </div>
-      <img src="../assets/anout_content1.png" alt="">
+      <img src="../assets/anout_content1.webp" alt="">
     </div>
     <div class="part5">
       <div class="title2">
@@ -120,7 +120,7 @@
       </div>
       <div class="content-list">
         <div class="item">
-          <img src="../assets/icon-item.png" alt="">
+          <img src="../assets/icon-item.webp" alt="">
           <div class="content">
             Yunus Loop DeFi adopts the distributed decentralized circulation return mode. The smart contract for
             borrowing
@@ -128,14 +128,14 @@
           </div>
         </div>
         <div class="item">
-          <img src="../assets/icon-item.png" alt="">
+          <img src="../assets/icon-item.webp" alt="">
           <div class="content">
             Yunus Loop DeFi adopts the distributed decentralized circulation return mode. The smart contract for
             borrowing goods in Yunus Loop runs from Loop0.
           </div>
         </div>
         <div class="item">
-          <img src="../assets/icon-item.png" alt="">
+          <img src="../assets/icon-item.webp" alt="">
           <div class="content">
             Yunus Loop DeFi adopts the distributed decentralized circulation return mode. The smart contract for
             borrowing goods in Yunus Loop runs from Loop0.
@@ -191,7 +191,7 @@ export default {
       left: 0;
       height: 100%;
       width: 100%;
-      background: url("../assets/about_bg1.png") top right no-repeat;
+      background: url("../assets/about_bg1.webp") top right no-repeat;
     }
   }
 
@@ -206,7 +206,7 @@ export default {
   }
 
   .part5 {
-    background: url("../assets/about_bg_map.png") top right no-repeat;
+    background: url("../assets/about_bg_map.webp") top right no-repeat;
     .content-list {
       .item {
         display: flex;

@@ -10,7 +10,7 @@
       </div>
     </div>
     <div class="header-box">
-      <img src="../assets/logo.png" alt="" class="logo">
+      <img src="../assets/logo.webp" alt="" class="logo">
       <div class="address-box">
         <div class="address">
           TAbgFNGCgKHv…
@@ -23,7 +23,7 @@
         </div>
       </div>
       <div class="menu-box" @click="showChoose">
-        <img src="../assets/icon-nav.png" alt="">
+        <img src="../assets/icon-nav.webp" alt="">
       </div>
     </div>
   </div>

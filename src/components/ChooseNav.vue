@@ -35,22 +35,22 @@
         </div>
         <div class="lng-list">
           <div class="lng-item" :class="{'active':activeLngInx==0}">
-            <img src="../assets/english.png" alt="">
+            <img src="../assets/english.webp" alt="">
           </div>
           <div class="lng-item" :class="{'active':activeLngInx==1}">
-            <img src="../assets/ferman.png" alt="">
+            <img src="../assets/ferman.webp" alt="">
           </div>
           <div class="lng-item" :class="{'active':activeLngInx==2}">
-            <img src="../assets/france.png" alt="">
+            <img src="../assets/france.webp" alt="">
           </div>
           <div class="lng-item" :class="{'active':activeLngInx==3}">
-            <img src="../assets/Italy.png" alt="">
+            <img src="../assets/Italy.webp" alt="">
           </div>
           <div class="lng-item" :class="{'active':activeLngInx==3}">
-            <img src="../assets/rusia.png" alt="">
+            <img src="../assets/rusia.webp" alt="">
           </div>
           <div class="lng-item" :class="{'active':activeLngInx==3}">
-            <img src="../assets/spain.png" alt="">
+            <img src="../assets/spain.webp" alt="">
           </div>
           <div class="lng-item" :class="{'active':activeLngInx==3}">
             <img src="../assets/מדינת ישראל.png" alt="">

@@ -256,7 +256,7 @@ export default {
   width: 100%;
   overflow: hidden;
   .bg3{
-    background: url("../assets/borrow_bg3.png") 100% -100px no-repeat;
+    background: url("../assets/borrow_bg3.webp") 100% -100px no-repeat;
     position: absolute;
     width: 100%;
     height: 150px;

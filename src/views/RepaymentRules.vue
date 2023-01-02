@@ -43,7 +43,7 @@ export default {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: url("../assets/borrow_bg2.png")  no-repeat;
+    background: url("../assets/borrow_bg2.webp")  no-repeat;
     background-position: 90% -1em;
   }
   .title1 {
