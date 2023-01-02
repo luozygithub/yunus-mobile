@@ -85,7 +85,7 @@ export default {
 <style lang="scss" scoped>
 .choose-nav-box{
   position: fixed;
-  height: calc(100vh - 100px);
+  height: calc(100% - 100px);
   width: 100%;
   top: 100px;
   left: 0;
