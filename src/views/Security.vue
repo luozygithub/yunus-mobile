@@ -7,7 +7,7 @@
       <div class="swiper-container2 swiper ">
         <div class="swiper-wrapper">
           <div class="swiper-slide ">
-            <img src="../assets/icon-autonomy.png" alt="">
+            <img src="../assets/icon-autonomy@2x.png" alt="">
             <div class="slide-title">
               {{ $t('Autonomy') }}
             </div>
@@ -17,7 +17,7 @@
             </div>
           </div>
           <div class=" swiper-slide">
-            <img src="../assets/icon-Unchangingconditions.png" alt="">
+            <img src="../assets/icon-Unchangingconditions@2x.png" alt="">
             <div class="slide-title">
               {{ $t("Unchangingconditions") }}
             </div>
@@ -35,7 +35,7 @@
             </div>
           </div>
           <div class=" swiper-slide">
-            <img src="../assets/icon-Fullautomation.png" alt="">
+            <img src="../assets/icon-Fullautomation@2x.png" alt="">
             <div class="slide-title">
               {{ $t('Full automation') }}
             </div>
@@ -44,7 +44,7 @@
             </div>
           </div>
           <div class=" swiper-slide">
-            <img src="../assets/icon-Decentralization.png" alt="">
+            <img src="../assets/icon-Decentralization@2x.png" alt="">
 
             <div class="slide-title">
               {{ $t('Decentralization') }}
@@ -55,7 +55,7 @@
             </div>
           </div>
           <div class="swiper-slide">
-            <img src="../assets/icon-100%online.png" alt="">
+            <img src="../assets/icon-100%online@2x.png" alt="">
             <div class="slide-title">
               {{ $t('100% online') }}
             </div>
