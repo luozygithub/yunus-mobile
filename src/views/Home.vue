@@ -52,7 +52,7 @@
       </div>
     </div>
     <div class="yunus-defi">
-      <img src="../assets/YUNUSLOOPDEFI.png" alt="">
+      <img src="../assets/YUNUSLOOPDEFI@2x.png" alt="">
     </div>
     <div class="yunus-info">
       Join Yunus Loop DeFi and make money by helping people in developing countries.
