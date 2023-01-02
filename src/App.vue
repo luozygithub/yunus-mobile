@@ -9,6 +9,7 @@
 
 
 import YunusHeader from "./components/YunusHeader";
+
 export default {
   name: 'App',
   components: {
@@ -21,7 +22,9 @@ export default {
 <style lang="scss">
 @import "./style/home1.css";
 @import "./style/swiper.css";
+
 #app {
-color: #fff;
+  color: #fff;
+  font-size: 1rem;
 }
 </style>

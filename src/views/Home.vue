@@ -1174,7 +1174,7 @@ export default {
 
           .slide-content {
             color: #aaa;
-            font-size: 16px;
+            font-size: 1rem;
           }
         }
       }
@@ -1197,7 +1197,7 @@ export default {
             background: #FFC000;
             border-radius: 24px;
             line-height: 34px;
-            font-size: 16px;
+            font-size: 1rem;
             font-weight: 500;
             color: #18191A;
           }
@@ -1237,7 +1237,7 @@ export default {
         height: 34px;
         background: #FFC000;
         border-radius: 24px;
-        font-size: 16px;
+        font-size: 1rem;
         font-weight: 600;
         color: #18191A;
         line-height: 22px;
@@ -1297,11 +1297,12 @@ export default {
       .nav-item {
         width: 48%;
         height: 48px;
+        font-size: 1rem;
         border-radius: 24px;
         border: 1px solid #999;
         line-height: 48px;
         text-align: center;
-
+        white-space: nowrap;
         &.active {
           color: #FFC000;
           border: 1px solid #FFC000;
@@ -1349,7 +1350,7 @@ export default {
 
           .part-info {
             color: #999;
-            font-size: 16px;
+            font-size: 1rem;
           }
         }
       }
@@ -1380,7 +1381,7 @@ export default {
             .name {
               color: #bbb;
               margin-top: 6px;
-              font-size: 16px;
+              font-size: 1rem;
             }
           }
         }
@@ -1419,7 +1420,7 @@ export default {
       padding-bottom: 10px;
       display: flex;
       justify-content: space-between;
-      font-size: 16px;
+      font-size: 1rem;
       font-family: PingFangSC-Medium, PingFang SC, sans-serif;
     }
 
@@ -1437,7 +1438,7 @@ export default {
         padding: 8px 1em;
         background: #FFC000;
         border-radius: 24px;
-        font-size: 16px;
+        font-size: 1rem;
         font-weight: 500;
         color: #18191A;
       }
@@ -1459,7 +1460,7 @@ export default {
       margin-top: 30px;
 
       .name {
-        font-size: 16px;
+        font-size: 1rem;
         font-family: PingFangSC-Medium, PingFang SC, sans-serif;
       }
 
@@ -1474,7 +1475,7 @@ export default {
           border: 1px solid #999;
           text-align: center;
           line-height: 32px;
-          font-size: 16px;
+          font-size: 1rem;
           margin-left: 10px;
 
           &.active {
@@ -1494,7 +1495,7 @@ export default {
       height: 52px;
 
       border-radius: 24px;
-      font-size: 16px;
+      font-size: 1rem;
       font-family: PingFangSC-Medium, PingFang SC, sans-serif;
       font-weight: 500;
       line-height: 50px;
@@ -1520,7 +1521,7 @@ export default {
     }
 
     .line {
-      margin: 16px 0;
+      margin: 1rem 0;
       border-top: 1px solid;
     }
 
@@ -1531,7 +1532,7 @@ export default {
       padding: 0 6px;
 
       .name {
-        font-size: 16px;
+        font-size: 1rem;
         font-family: PingFangSC-Medium, PingFang SC;
         font-weight: 500;
         color: #999;
@@ -1570,7 +1571,7 @@ export default {
       height: 52px;
       background: #FFC000;
       border-radius: 24px;
-      font-size: 16px;
+      font-size: 1rem;
       font-family: PingFangSC-Medium, PingFang SC;
       font-weight: 500;
       color: #18191A;
